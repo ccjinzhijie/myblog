@@ -1,0 +1,2 @@
+# myblog
+Technical records
